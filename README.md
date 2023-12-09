@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ryan-C-Marshall!
-- 👀 I’m interested in most things,
+- 👀 I’m interested in most things ...
 - 🌱 I’m currently studying Software Engineering at McGill university.
 
 - 📫 How to reach me ...
